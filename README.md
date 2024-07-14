@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anmol Gupta</h1>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+## 
+<h1>About Me ✍</h1>
+<ul>
+  <li>I am a passionate full stack developer </li>
+  <li>I enjoy creating scalable web applications and solving complex problems.</li>
+  <li>I am always open to collaborting on innovative ideas that excite and inspire me.</li>
+  <li>Feel free to ask me about anything related to devOps or Technology!</li>
+  <li>Pronouns: He/Him</li>
+</ul>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -42,8 +43,10 @@
 
 
 ###
-<h3 align="left">Other Technology</h3>
+<h3 align="left">Other Technical Skills</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  ![coder](https://github.com/user-attachments/assets/8450b991-5fbe-4fd4-a924-bff09f661ac7)
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
